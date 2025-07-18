@@ -14,7 +14,7 @@ __pycache__/
 *.swp
 *.tmp
 *.log
-
+*.back
 # OS/editor specific
 .DS_Store
 Thumbs.db
