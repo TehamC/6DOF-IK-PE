@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Backup/Temporary
+*~
+*.bak
+*.swp
+*.tmp
+*.log
+
+# OS/editor specific
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.venv
+*.env
