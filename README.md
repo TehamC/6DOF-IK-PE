@@ -1,6 +1,6 @@
 # Robotics Manipulation Task
 
-This repository contains solutions for a robotics manipulation take-home task, focusing on Inverse Kinematics (IK) for a combined linear axis and a 6-DOF industrial manipulator, and 3D pose estimation of a box from depth data.
+This repository contains solutions for a robotics manipulation task, focusing on Inverse Kinematics (IK) for a combined linear axis and a 6-DOF industrial manipulator, and 3D pose estimation of a box from depth data.
 
 ## IK Solver
 
